@@ -1,1 +1,1 @@
-# News-API-mini-project-
+# News-API-mini-project
